@@ -10,55 +10,55 @@ function input() {
             name: "todo",
             message:v
         }
-    ])
-}
+    ]
+};
 // TODO: Create an array of questions for user input
 const questions = [
     {
-        type: 'input,'
-        name:
-        message:
+        type: 'input',
+        name: 'Name',
+        message: 'What is your name?'
     },
     {
         type: 'input',
-        name:
-        message:
+        name: 'ProjectName',
+        message:'What is the name of your project?'
     },
     {
         type: 'input',
-        name:
-        message:
+        name: 'Description',
+        message: 'Tell me what your project is about:'
     },
     {
-        type: 'input'
-        name:
-        message:
+        type: 'input',
+        name: 'Instructions',
+        message: 'Tell me how to use your project:'
     },
     {
-        type: 'input'
-        name:
-        message:
+        type: 'list',
+        name: 'License',
+        message: 'What is your licensing information?',
+        choices: ['Apache2','BSD-3-Clause','GNU General Public License (GPL)',
+            'GNU Lesser General Public License (LGPL)'
+            ,'MIT license'
+            ,'Mozilla Public License2.0']
     },
     {
-        type: 'input'
-        name:
-        message:
+        type: 'input',
+        name: 'Contributing',
+        message:'Who contributed to your project?'
     },
     {
-        type: 'input'
-        name:
-        message:
+        type: 'input',
+        name: 'tests',
+        message: 'How do we test it?'
     },
     {
-        type: 'input'
-        name:
-        message:
+        type: 'input',
+        name: 'questions',
+        message: 'If you have any questions you can reach me at'
     },
-    {
-        type: 'input'
-        name:
-        message:
-    },
+  
 ];
 
 // TODO: Create a function to write README file
