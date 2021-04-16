@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tvnames/dynamic_readME/issues"
   },
-  "homepage": "https://github.com/tvnames/dynamic_readME#readme"
+  "homepage": "https://github.com/tvnames/dynamic_readME#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
