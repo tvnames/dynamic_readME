@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/license-undefined-blue);
 
-# c  
+# Dynamic README  
 
 ## Table of Contents
 - [Description](#Description)
@@ -13,27 +13,26 @@
 
 ## Description
 
-d  
+It is about how I created a readme with command line prompts and javascript  
   
 ## Install Instructions  
-e  
+npm i  
 
 ## Usage  
-e  
+You can use it to create your own readme  
 
 ## Licenses
-## License 
- ${licenseText}
+;
 
 ## Contribution Guidelines  
-a  
+  
   
 ## Test Instructions  
-d  
+npm test  
 
 
 ## Questions? 
-e
+github.com/tvnames
 
 Get in touch!
 Find me on [Github!](https://github.com/undefined)
